@@ -1,1 +1,1 @@
-# Statis-for-deta-science
+# Statistics-for-Data-Science
