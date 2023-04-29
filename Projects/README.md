@@ -13,7 +13,7 @@ This variability has a significant impact on the efficiency of solar energy syst
 
 ## POSTER
 
-![Modal Poster](https://github.com/sahilgoyal7214/Statistics-for-Data-Science/blob/main/Projects/Exhibition%20poster.jpg?raw=true)
+![Modal Poster](https://github.com/sahilgoyal7214/Statistics-for-Data-Science/blob/main/Projects/Exhibition%20poster%20.jpg?raw=true)
 
 
 ## Authors
