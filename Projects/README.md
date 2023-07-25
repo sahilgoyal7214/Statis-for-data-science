@@ -11,9 +11,6 @@ We will be analyzing a numerical dataset of solar irradiance ,ranging from (15Ma
 AMBIENT_TEMPERATURE, MODULE_TEMPERATURE.
 This variability has a significant impact on the efficiency of solar energy systems, as well as on the Earth's climate. Understanding solar irradiance is important for predicting and mitigating the effects of climate change, as well as for optimizing the design of solar energy systems.
 
-## POSTER
-
-![Modal Poster](https://github.com/sahilgoyal7214/Statistics-for-Data-Science/blob/main/Projects/Exhibition%20poster%20.jpg?raw=true)
 
 
 ## Authors
